@@ -1,7 +1,11 @@
-To use this: Place this .arc file in the ObjectData folder of your mod!
+2 Years Later, I actually came back to it!
 
---!!FOR NON GLE USERS!!--
+Requires the SimpleNPC Syati Module! Get Syati Manager here: https://github.com/SMGCommunity/SyatiManager
 
-Make sure to remove the entries for BombHeiRed in the AutoEffectsList! NOT DOING THIS WILL RESULT IN A CRASH!
+After adding SimpleNPC, simply register "Ninji" as a SimpleNPC in the ProductMapObjDataTable!
 
-Thank you for downloading!
+If used, please credit as "Ninji NPC - Syreyup" or similar. Thank you!
+
+Model: Ninji from Super Mario Party Jamboree
+
+Animations: Nintendo - Super Mario Party Jamboree (with some edits and certain anims by me)
